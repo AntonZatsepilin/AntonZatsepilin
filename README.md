@@ -39,7 +39,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,postgres,vscode,git,docker,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=go,postgres,vscode,git,docker,css,html" />
   </a>
 </div>
 
