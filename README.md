@@ -27,7 +27,7 @@
 ###
 
 
-<p align="left">I am a beginner Backend developer. I'm studying at the 2nd year of MEPhI in Moscow and actively developing my skills in Backend development 📚💻.</p>
+<p align="left">I am a beginner Backend developer. I'm studying at the 3nd year of MEPhI in Moscow and actively developing my skills in Backend development 📚💻.</p>
 
 ###
 
@@ -48,12 +48,6 @@
 
 <h3 align="left">🔥  My Statistics:</h3>
 
-###
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AntonZatsepilin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="800" alt="streak graph"  />
-</div>
 
 ###
 
